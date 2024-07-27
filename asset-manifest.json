@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sabithx/Timer.git/static/css/main.2861c418.css",
+    "main.js": "/Sabithx/Timer.git/static/js/main.cde7d8a5.js",
+    "static/js/453.67bc05c0.chunk.js": "/Sabithx/Timer.git/static/js/453.67bc05c0.chunk.js",
+    "index.html": "/Sabithx/Timer.git/index.html",
+    "main.2861c418.css.map": "/Sabithx/Timer.git/static/css/main.2861c418.css.map",
+    "main.cde7d8a5.js.map": "/Sabithx/Timer.git/static/js/main.cde7d8a5.js.map",
+    "453.67bc05c0.chunk.js.map": "/Sabithx/Timer.git/static/js/453.67bc05c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2861c418.css",
+    "static/js/main.cde7d8a5.js"
+  ]
+}
